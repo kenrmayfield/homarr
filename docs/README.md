@@ -88,7 +88,7 @@ Homarr has a [built-in collection of widgets and integrations](https://homarr.de
 <br/>
 <br/>
 
-<p dir="auto"><a href="https://demo.homarr.dev/" rel="nofollow"><img src="/ajnart/homarr/raw/dev/docs/section-preview.png" alt="Preview Section" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://demo.homarr.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/ajnart/homarr/dev/docs/section-preview.png" alt="Preview Section" style="max-width: 100%;"></a></p>
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
